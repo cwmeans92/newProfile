@@ -1,0 +1,33 @@
+html, body{
+	height: 100%;
+	background-color: #1c014c;
+}
+.wrapper{
+	min-height: 85%;
+}
+
+.navbar{
+	background-color: #1c014c;
+	border-radius: 0;
+	padding: 10px 0;
+	border: 0;
+	border-bottom: 2px solid #8e83a9;
+}
+/* =========================
+	Global Declaration Start
+	========================= */
+.txt-lg{
+	border: 2px solid #FFF;
+	background-color: #8e83a9;
+}
+.p{
+	font-size: 17px;
+	color: #1c014c;
+}
+h1, h2, h3{
+	margin: 0;
+	color: #1c014c;
+}
+hr{
+	border: 2px solid #1c014c;
+}
